@@ -59,4 +59,4 @@ My personal profile
 
 我希望与重视物理问题、证据质量和可复现性的研究者交流，共同寻找能够推进理解的下一步。
 
-Email：zr.zhang2@siat.ac.cn****
+Email：zr.zhang2@siat.ac.cn
