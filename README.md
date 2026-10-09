@@ -60,3 +60,62 @@
 我希望与重视物理问题、证据质量和可复现性的研究者交流，共同寻找能够推进理解的下一步。
 
 Email：zr.zhang2@siat.ac.cn
+
+# Hi, I'm Zhui 👋
+
+My research focuses on condensed matter physics, thermoelectric transport, and transverse thermoelectric responses. I work on the Nernst effect through theoretical analysis, experimental data processing, and multiphysics modeling. I also explore how AI can support scientific reading, evidence evaluation, and research workflows.
+
+- 🔬 **Research focus**: Condensed matter physics, thermoelectric transport, the Nernst effect, and transverse thermoelectric responses
+- 🧠 **Core interests**: Physical mechanisms, measurement definitions, model assumptions, and the limits of scientific conclusions
+- 🛠️ **Research tools**: COMSOL, MATLAB, and Markdown / LaTeX for research notes and mathematical expressions
+- 🚀 **Current goal**: Connect literature analysis, theoretical derivations, data analysis, and numerical simulations into a research process that can be checked and reproduced
+
+> What does this study actually establish? Where is the weakest link in its evidence? What test would help distinguish competing explanations?
+
+---
+
+## About Me
+
+I like to start with a concrete physics question and trace the connections between observations, models, and mechanisms. When reading a paper, I ask how its conclusions were established, which assumptions shape their interpretation, and what experiment or calculation could test them further.
+
+I value scientific accuracy, traceable evidence, and reproducible results, and aim to put these principles into practice in equations, code, figures, and research records.
+
+## Research Interests
+
+- **Thermoelectric and transverse transport**: Seebeck responses, ordinary and anomalous Nernst effects, and their underlying physical mechanisms
+- **Transport theory and measurement**: Tensor relations, measurement geometry, sign conventions, and the extraction of physical quantities
+- **Multiphysics modeling**: COMSOL simulations and validation of transport problems involving heat, electricity, and magnetic fields
+- **Experimental data analysis**: Data extraction, checks of units and definitions, fitting, and uncertainty analysis
+- **Scientific reading and tools**: Analysis of the evidence supporting a paper's claims, and reusable research workflows assisted by AI
+
+## Tools & Working Approach
+
+- **COMSOL**: Multiphysics modeling, parameter analysis, and postprocessing
+- **MATLAB**: Experimental data processing, numerical analysis, and scientific plotting
+- **Markdown / LaTeX**: Research notes, equations, and academic writing
+- **AI-assisted research**: Literature analysis, checks of theoretical derivations, and workflow organization, with verification of the supporting evidence and applicable conditions
+
+I pay attention to preserving raw data, documenting key processing steps, and maintaining consistency between models, parameters, and results.
+
+## Recent Project
+
+### Zhui-论文深度挖掘
+
+A scientific reading skill for papers in condensed matter physics and thermoelectric transport. It examines a paper's actual contributions, key concerns, competing explanations, and unresolved questions.
+
+The skill is organized around 15 questions for evaluating scientific work. It requires key judgments to be anchored to the main text, figures, tables, equations, or supplementary materials, and turns follow-up ideas into testable questions and minimal validation plans.
+
+**Keywords**: Critical paper reading · Evidence chains · Mechanism evaluation · Limits of conclusions · Falsifiable hypotheses
+
+## Current Focus
+
+- Understanding the physical origins of transverse thermoelectric responses and their measurement conditions
+- Connecting theoretical relations, experimental data, and COMSOL results
+- Improving traceability in literature analysis, data processing, and research records
+- Turning recurring research tasks into reusable tools
+
+## Open to Discussion
+
+I welcome discussions on thermoelectric and transverse transport, the Nernst effect, multiphysics simulations, and tools for scientific reading and analysis.
+
+I would like to connect with researchers who value clear physics questions, strong evidence, and reproducibility, and explore the next steps that could advance our understanding.
