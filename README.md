@@ -119,3 +119,5 @@ The skill is organized around 15 questions for evaluating scientific work. It re
 I welcome discussions on thermoelectric and transverse transport, the Nernst effect, multiphysics simulations, and tools for scientific reading and analysis.
 
 I would like to connect with researchers who value clear physics questions, strong evidence, and reproducibility, and explore the next steps that could advance our understanding.
+
+Email：zr.zhang2@siat.ac.cn
