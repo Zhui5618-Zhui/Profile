@@ -1,5 +1,5 @@
 # Profile
-My personal profile
+
 # 你好，我是 Zhui 👋
 
 我是来自中国科学院大学(University of Chinese Academy of Sciences)的博士研究生，我主要关注凝聚态物理、热电与横向热电输运，主要围绕能斯特效应开展理论分析、实验数据处理与多物理场建模，同时我也在探索如何让 AI 更好地支持文献阅读、证据评估和科研工作流。
